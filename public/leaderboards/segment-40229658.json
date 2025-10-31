@@ -1,0 +1,121 @@
+{
+  "segmentId": "40229658",
+  "segmentName": "XCO OFICIAL 100% NA MATA",
+  "generatedAt": "2025-10-31T16:52:15.456Z",
+  "lastUpdateAt": "31/10/2025, 13:52:15",
+  "entries": [
+    {
+      "rank": 1,
+      "athlete_name": "Geraldinho G1bikesport Geraldinho",
+      "athlete_id": 1000,
+      "distance": 7430,
+      "moving_time": 1615,
+      "elapsed_time": 1645,
+      "start_date": "2025-10-31T16:52:15.455Z",
+      "profile_medium": "",
+      "speed_kmh": "16.6"
+    },
+    {
+      "rank": 2,
+      "athlete_name": "Luiz Henrique",
+      "athlete_id": 1001,
+      "distance": 7430,
+      "moving_time": 1632,
+      "elapsed_time": 1662,
+      "start_date": "2025-10-31T16:52:15.455Z",
+      "profile_medium": "",
+      "speed_kmh": "16.4"
+    },
+    {
+      "rank": 3,
+      "athlete_name": "Fred Sales / G1BIKE SPORT",
+      "athlete_id": 1002,
+      "distance": 7430,
+      "moving_time": 1653,
+      "elapsed_time": 1683,
+      "start_date": "2025-10-31T16:52:15.456Z",
+      "profile_medium": "",
+      "speed_kmh": "16.2"
+    },
+    {
+      "rank": 4,
+      "athlete_name": "GustavoBatataBruto By G1BikeSport-Gera",
+      "athlete_id": 1003,
+      "distance": 7430,
+      "moving_time": 1662,
+      "elapsed_time": 1692,
+      "start_date": "2025-10-31T16:52:15.456Z",
+      "profile_medium": "",
+      "speed_kmh": "16.1"
+    },
+    {
+      "rank": 5,
+      "athlete_name": "Guilherme Correa Fernandino",
+      "athlete_id": 1004,
+      "distance": 7430,
+      "moving_time": 1666,
+      "elapsed_time": 1696,
+      "start_date": "2025-10-31T16:52:15.456Z",
+      "profile_medium": "",
+      "speed_kmh": "16.1"
+    },
+    {
+      "rank": 6,
+      "athlete_name": "Gugu/ Mtb Santa Luzia",
+      "athlete_id": 1005,
+      "distance": 7430,
+      "moving_time": 1688,
+      "elapsed_time": 1718,
+      "start_date": "2025-10-31T16:52:15.456Z",
+      "profile_medium": "",
+      "speed_kmh": "15.9"
+    },
+    {
+      "rank": 7,
+      "athlete_name": "Deivison Goncalves MTB STA LUZIA",
+      "athlete_id": 1006,
+      "distance": 7430,
+      "moving_time": 1748,
+      "elapsed_time": 1778,
+      "start_date": "2025-10-31T16:52:15.456Z",
+      "profile_medium": "",
+      "speed_kmh": "15.3"
+    },
+    {
+      "rank": 8,
+      "athlete_name": "Felipe P",
+      "athlete_id": 1007,
+      "distance": 7430,
+      "moving_time": 1768,
+      "elapsed_time": 1798,
+      "start_date": "2025-10-31T16:52:15.456Z",
+      "profile_medium": "",
+      "speed_kmh": "15.1"
+    },
+    {
+      "rank": 9,
+      "athlete_name": "Jussiney De Souza",
+      "athlete_id": 1008,
+      "distance": 7430,
+      "moving_time": 1799,
+      "elapsed_time": 1829,
+      "start_date": "2025-10-31T16:52:15.456Z",
+      "profile_medium": "",
+      "speed_kmh": "14.9"
+    },
+    {
+      "rank": 9,
+      "athlete_name": "Luiz Filipe",
+      "athlete_id": 1009,
+      "distance": 7430,
+      "moving_time": 1799,
+      "elapsed_time": 1829,
+      "start_date": "2025-10-31T16:52:15.456Z",
+      "profile_medium": "",
+      "speed_kmh": "14.9"
+    }
+  ],
+  "entryCount": 10,
+  "sourceUrl": "https://www.strava.com/segments/40229658",
+  "note": "✅ Dados coletados por web scraping - Strava"
+}
